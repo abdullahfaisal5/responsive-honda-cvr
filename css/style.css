@@ -1,13 +1,63 @@
+/* Header style  */
+
 .header-bg-color{
     background-color:  #264653;
 }
 .header-text{
     color: white;
 }
+
+/* button and modal style  */
+
 .button{
     width: 168px;
     height: 44px;
     background: #E76F51;
     border-radius: 5px;
     color: white;
+}
+.modal-body{
+    color: black;
+}
+/* featured style  */
+.featured-text{
+    color: #E76F51;
+    font-weight: 600;
+}
+.images-grayscle{
+    filter: grayscale(100%);
+}
+/* Client review styles  */
+.client-review{
+    color: #E76F51;
+}
+.client img{
+    width: 160px;
+    height: 160px;    
+}
+
+/* font awesome icon  */
+
+.font-icon{
+    color: #E76F51;
+    padding-bottom: 15px;
+}
+
+/* client review style  */
+.client-name{
+    color: #0d6efd;  
+}
+
+/* Accordion item style  */
+.accordion-button{
+   font-weight: 600;
+   font-size: 20px;
+}
+.accordion-item {
+    margin-bottom: 40px;
+}
+
+/* Best sell product  */
+.best-sell{
+    font-weight: 500;
 }
